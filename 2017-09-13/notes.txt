@@ -1,0 +1,12 @@
+1. opening: scan problems to find an easy problem
+2. early game: 
+	solve easy problems; 
+	one/two work on first easy one while rest find other easy ones
+3. mid game:
+	go back to easy problems you haven't totally finished
+	move on to medium problems
+4. end game:
+	go back, yet again, to ones you've tried before but not finished
+
+
+General rule: after 5 submissions, move on and come back later
