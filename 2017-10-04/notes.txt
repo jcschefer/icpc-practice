@@ -1,0 +1,6 @@
+sunday 10am-3pm
+scoring:
+	first tiebreaker: number of problems
+	second tiebreaker: sum of time taken
+		20 minute time penalty for incorrect submissions
+		better to solve more problems than some problems quickly
