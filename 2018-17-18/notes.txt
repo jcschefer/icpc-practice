@@ -1,0 +1,16 @@
+write test cases, or autogenerate
+specialize ppl on team for hard types of problems
+	graph search
+	comp geometry
+
+
+Java libraries
+	biginteger
+	decimalformat
+	treemap
+	treeset
+
+useful algos
+	graph search, don't write dfs recursively
+	area of polygon: count trapezoids
+	point in polygon assuming have right order of points
