@@ -1,0 +1,6 @@
+3 4
+a b c
+English a 1
+a b 3
+b c 2
+English c 4
